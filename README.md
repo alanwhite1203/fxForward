@@ -94,4 +94,4 @@ Maturity Date	2/26/2018
 
 
 You can find more details at
-https://finpricing.com/faq/fxCurve.html
+https://finpricing.com/lib/EqWarrant.html
