@@ -93,5 +93,9 @@ Maturity Date	2/26/2018
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/fxforward/downloads/FxForward-19.pdf
+
